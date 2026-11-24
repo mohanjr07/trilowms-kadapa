@@ -1,0 +1,4 @@
+employee_id,name,role,shift,warehouse
+E1001,Ravi Kumar,picker,Shift A,TRILO-DC-01
+E1002,Suresh Babu,forklift_operator,Shift A,TRILO-DC-01
+E1003,Anita Devi,packing_operator,Shift B,TRILO-DC-01
